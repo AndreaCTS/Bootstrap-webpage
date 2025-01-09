@@ -1,0 +1,13 @@
+.logo { background-color: lightblue; }
+.menu { background-color: limegreen; }
+.banner { background-color: orange; }
+.content-1a { background-color: yellow; }
+.content-1b { background-color: red; }
+.content-1c { background-color: purple; }
+.content-2a { background-color: lightgray; }
+.content-2b { background-color: white; }
+.content-3a { background-color: black; color: white; }
+.content-3b { background-color: blue; color: white; }
+.content-4c { background-color: darkgreen; color: white; }
+.content-5c { background-color: yellow; }
+.footer { background-color: gray; color: white; }
